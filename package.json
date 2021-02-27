@@ -1,0 +1,29 @@
+{
+  "name": "express-practice",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": "mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/audreywrong/node-express-practice.git"
+  },
+  "keywords": [
+    "express",
+    "node",
+    "javascript"
+  ],
+  "author": "Audrey Wright",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/audreywrong/node-express-practice/issues"
+  },
+  "homepage": "https://github.com/audreywrong/node-express-practice#readme",
+  "dependencies": {
+    "mocha": "^8.3.0",
+    "typescript": "^4.2.2"
+  }
+}
